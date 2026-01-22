@@ -1,0 +1,141 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type
+i-tr25,HŽ,,Pula - Buzet,,2
+i-tr27,HŽ,,Pula - Zagreb Glavni kolodvor,,2
+i-tr1177bu,HŽ,,Virovitica - Bjelovar,,2
+i-tr861,HŽ,,Strizivojna-Vrpolje - Erdut,,2
+i-tr222bz,HŽ,,Osijek - Županja,,2
+i-tr527,HŽ,,Kotoriba - Čakovec,,2
+i-tr696,HŽ,,Zagreb Glavni kolodvor - Sunja,,2
+i-tr907,HŽ,,Čaglin - Velika,,2
+i-tr209az,HŽ,,Županja - Osijek,,2
+i-tr823ct,HŽ,,Osijek - Špišić Bukovica,,2
+i-tr872,HŽ,,Osijek - Strizivojna-Vrpolje,,2
+i-tr155,HŽ,,Koprivnica - Križevci,,2
+i-tr1136,HŽ,,Lupoglav - Rijeka,,3
+i-tr588,HŽ,,Mursko Središće - Varaždin,,2
+i-tr203,HŽ,,Slavonski Brod - Slavonski Šamac,,2
+i-tr113,HŽ,,Zagreb Glavni kolodvor - Slavonski Brod,,2
+i-tr634,HŽ,,Karlovac - Moravice,,2
+i-tr552,HŽ,,Golubovec - Varaždin,,2
+i-tr698,HŽ,,Zagreb Glavni kolodvor - Volinja,,2
+i-tr1008,HŽ,,Osijek - Zagreb Glavni kolodvor,,2
+i-tr833ez,HŽ,,Našice Grad - Osijek,,2
+i-tr821cr,HŽ,,Osijek - Pitomača,,2
+i-tr824cx,HŽ,,Špišić Bukovica - Osijek,,2
+i-tr724,HŽ,,Novska - Sunja,,2
+i-tr838,HŽ,,Erdut - Osijek,,2
+i-tr174,HŽ,,Bjelovar - Koprivnica,,2
+i-tr806,HŽ,,Šibenik - Perković,,2
+i-tr237,HŽ,,Vinkovci - Otok,,2
+i-tr1134,HŽ,,Zagreb Glavni kolodvor - Karlovac,,2
+i-tr1167,HŽ,,Zagreb Glavni kolodvor - Sisak Caprag,,2
+i-tr866,HŽ,,Slavonski Šamac - Osijek,,2
+i-tr829,HŽ,,Osijek Donji grad - Bizovac,,2
+i-tr115,HŽ,,Vođinci - Vinkovci,,2
+i-tr844,HŽ,,Beli Manastir - Osijek,,2
+i-tr834,HŽ,,Osijek Donji grad - Našice,,2
+i-tr658,HŽ,,Pula - Lupoglav,,2
+i-tr831dw,HŽ,,Našice Grad - Osijek Donji grad,,2
+i-tr119,HŽ,,Vinkovci - Zaprešić,,2
+i-tr1174,HŽ,,Zagreb Glavni kolodvor - Kloštar,,2
+i-tr133,HŽ,,Novoselec - Harmica,,2
+i-tr62,HŽ,,Split - Zagreb Glavni kolodvor,,2
+i-tr105bg,HŽ,,Tovarnik - Zagreb Glavni kolodvor,,2
+i-tr673,HŽ,,Rijeka - Permani,,2
+i-tr647,HŽ,,Rijeka - Ogulin,,2
+i-tr1119,HŽ,,Zagreb Glavni kolodvor - Velika Gorica,,2
+i-tr867,HŽ,,Osijek - Slavonski Šamac,,2
+i-tr225,HŽ,,Županja - Vinkovci,,2
+i-tr909,HŽ,,Čaglin - Pleternica,,2
+i-tr874,HŽ,,Kloštar - Varaždin,,2
+i-tr635,HŽ,,Moravice - Karlovac,,2
+i-tr1024,HŽ,,Koprivnica - Čakovec,,2
+i-tr128,HŽ,,Rijeka - Šapjane,,2
+i-tr501,HŽ,,Zabok - Gornja Stubica,,2
+i-tr586,HŽ,,Mursko Središće - Čakovec,,2
+i-tr1190,HŽ,,Šapjane - Rijeka,,2
+i-tr471,HŽ,,Zabok - Đurmanec,,2
+i-tr99,HŽ,,Split - Osijek,,2
+i-tr479,HŽ,,Zagreb Glavni kolodvor - Hromec,,2
+i-tr756,HŽ,,Split - Kaštel Stari,,2
+i-tr22,HŽ,,Ploče - Metković,,2
+i-tr1184,HŽ,,Zagreb Glavni kolodvor - Zabok,,2
+i-tr886,HŽ,,Velika - Nova Kapela-Batrina,,2
+i-tr1182cb,HŽ,,Zabok - Kotoriba,,2
+i-tr98,HŽ,,Osijek - Split,,2
+i-tr470,HŽ,,Hromec - Zabok,,2
+i-tr1154aq,HŽ,,Bubnjarci - Duga Resa,,3
+i-tr31,HŽ,,Rijeka - Zagreb Glavni kolodvor,,2
+i-tr234,HŽ,,Gunja - Vinkovci,,2
+i-tr109bq,HŽ,,Zagreb Glavni kolodvor - Tovarnik,,2
+i-tr825cv,HŽ,,Osijek Donji grad - Virovitica,,2
+i-tr20,HŽ,,Tovarnik - Vinkovci,,2
+i-tr431ae,HŽ,,Zagreb Glavni kolodvor - Varaždin,,2
+i-tr482ce,HŽ,,Hromec - Zagreb Glavni kolodvor,,2
+i-tr733,HŽ,,Ogulin - Plaški,,2
+i-tr574,HŽ,,Kotoriba - Koprivnica,,2
+i-tr862an,HŽ,,Erdut - Slavonski Brod,,2
+i-tr832ds,HŽ,,Osijek Donji grad - Našice Grad,,2
+i-tr796,HŽ,,Knin - Šibenik,,2
+i-tr199eu,HŽ,,Tovarnik - Novska,,2
+i-tr1030dk,HŽ,,Harmica - Zagreb Glavni kolodvor,,2
+i-tr594,HŽ,,Macinec - Čakovec,,2
+i-tr808aa,HŽ,,Šibenik - Unešić,,2
+i-tr23,HŽ,,Metković - Ploče,,2
+i-tr875cc,HŽ,,Varaždin - Virovitica,,2
+i-tr172,HŽ,,Bjelovar - Kloštar,,2
+i-tr235,HŽ,,Vinkovci - Gunja,,2
+i-tr877,HŽ,,Virovitica - Koprivnica,,2
+i-tr176,HŽ,,Križevci - Sveti Ivan Žabno,,2
+i-tr425,HŽ,,Zabok - Mala Subotica,,2
+i-tr36,HŽ,,Zagreb Glavni kolodvor - Požega,,2
+i-tr1177bt,HŽ,,Virovitica - Gradec,,2
+i-tr674,HŽ,,Permani - Rijeka,,2
+i-tr743bf,HŽ,,Šibenik - Split,,2
+i-tr134,HŽ,,Zagreb Glavni kolodvor - Novoselec,,2
+i-tr182,HŽ,,Virovitica - Banova Jaruga,,2
+i-tr1168,HŽ,,Volinja - Zagreb Glavni kolodvor,,2
+i-tr1030dj,HŽ,,Harmica - Dugo Selo,,2
+i-tr1135,HŽ,,Rijeka - Lupoglav,,3
+i-tr864,HŽ,,Slavonski Brod - Osijek,,2
+i-tr730,HŽ,,Volinja - Sisak,,2
+i-tr1154,HŽ,,Bubnjarci - Karlovac,,3
+i-tr595,HŽ,,Čakovec - Macinec,,2
+i-tr887,HŽ,,Nova Kapela-Batrina - Velika,,2
+i-tr442ai,HŽ,,Zagreb Glavni kolodvor - Čakovec,,2
+i-tr795,HŽ,,Šibenik - Knin,,2
+i-tr101,HŽ,,Zagreb Glavni kolodvor - Virovitica,,2
+i-tr191,HŽ,,Vinkovci - Slavonski Brod,,2
+i-tr908,HŽ,,Požega - Čaglin,,2
+i-tr605,HŽ,,Zagreb Glavni kolodvor - Rijeka,,2
+i-tr1014,HŽ,,Hromec - Đurmanec,,2
+i-tr1157,HŽ,,Duga Resa - Bubnjarci,,3
+i-tr173,HŽ,,Koprivnica - Bjelovar,,2
+i-tr124ac,HŽ,,Savski Marof - Novska,,2
+i-tr430,HŽ,,Čakovec - Zagreb Glavni kolodvor,,2
+i-tr619,HŽ,,Zagreb Glavni kolodvor - Duga Resa,,2
+i-tr248,HŽ,,Vukovar - Vinkovci,,2
+i-tr551,HŽ,,Varaždin - Golubovec,,2
+i-tr502,HŽ,,Gornja Stubica - Zabok,,2
+i-tr80,HŽ,,Vukovar - Zagreb Glavni kolodvor,,2
+i-tr135ag,HŽ,,Ivanić Grad - Savski Marof,,2
+i-tr1004,HŽ,,Zagreb Glavni kolodvor - Koprivnica,,2
+i-tr428,HŽ,,Kotoriba - Zabok,,2
+i-tr527be,HŽ,,Kotoriba - Varaždin,,2
+i-tr210,HŽ,,Osijek - Vinkovci,,2
+i-tr1146,HŽ,,Zagreb Glavni kolodvor - Bjelovar,,2
+i-tr24,HŽ,,Zagreb Glavni kolodvor - Pula,,2
+i-tr183,HŽ,,Banova Jaruga - Daruvar,,2
+i-tr175,HŽ,,Sveti Ivan Žabno - Križevci,,2
+i-tr732,HŽ,,Plaški - Ogulin,,2
+i-tr587,HŽ,,Varaždin - Mursko Središće,,2
+i-tr990,HŽ,,Zagreb Glavni kolodvor - Vukovar,,2
+i-tr132aj,HŽ,,Harmica - Ivanić Grad,,2
+i-tr863,HŽ,,Strizivojna-Vrpolje - Beli Manastir,,2
+i-tr1022,HŽ,,Zagreb Glavni kolodvor - Krapina,,2
+i-tr742,HŽ,,Split - Perković,,2
+i-tr725,HŽ,,Sunja - Novska,,2
+i-tr157,HŽ,,Zagreb Glavni kolodvor - Križevci,,2
+i-tr607,HŽ,,Zagreb Glavni kolodvor - Ogulin,,2
+i-tr649,HŽ,,Rijeka - Oštarije,,2
+i-tr1191,HŽ,,Zaprešić - Vinkovci,,2
